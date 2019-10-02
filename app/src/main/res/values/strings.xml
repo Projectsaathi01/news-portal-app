@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ABC News</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">गृह</string>
+    <string name="menu_national">राष्ट्रिय</string>
+    <string name="menu_international">अन्तर्राष्ट्रिय</string>
+    <string name="menu_business">व्यापार-व्यवसाय</string>
+    <string name="menu_technology">सूचना-प्रबिधि</string>
+    <string name="menu_health">स्वास्थ्य</string>
+    <string name="menu_entertainment">मनोरञ्जन</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
